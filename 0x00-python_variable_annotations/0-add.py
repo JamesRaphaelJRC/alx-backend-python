@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 ''' Defines a function that takes floats as arguments and returns a float '''
 
 

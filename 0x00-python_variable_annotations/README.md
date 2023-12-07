@@ -24,3 +24,6 @@ Writes a type-annotated function add that takes a float a and a float b as argum
 
 ### [1-concat.py](https://github.com/JamesRaphaelJRC/alx-backend-python/blob/main/0x00-python_variable_annotations/1-concat.py)
 Writes a type-annotated function concat that takes a string str1 and a string str2 as arguments and returns a concatenated string
+
+### [2-floor.py](ttps://github.com/JamesRaphaelJRC/alx-backend-python/blob/main/0x00-python_variable_annotations/2-floor.py)
+Writes a type-annotated function floor which takes a float n as argument and returns the floor of the float.

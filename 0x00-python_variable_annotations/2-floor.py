@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-''' Defines a type-annoted function 'floor' '''
 import math
+''' Defines a type-annoted function 'floor' '''
 
 
 def floor(n: float) -> float:

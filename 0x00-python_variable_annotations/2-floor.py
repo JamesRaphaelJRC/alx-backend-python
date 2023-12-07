@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' Defines a type-annoted function '''
+''' Defines a type-annoted function 'floor' '''
 import math
 
 

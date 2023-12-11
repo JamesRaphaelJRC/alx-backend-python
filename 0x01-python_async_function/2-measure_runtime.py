@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' Defines an async function that calculates the time taken to perform
+''' Defines function that calculates the time taken to perform
     a task
 '''
 import asyncio

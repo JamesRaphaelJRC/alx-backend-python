@@ -31,3 +31,7 @@ Imports `wait_random` from the previous python file above and defines an async r
 ### [2-measure_runtime.py](https://github.com/JamesRaphaelJRC/alx-backend-python/blob/main/0x01-python_async_function/2-measure_runtime.py)
 Defines a `measure_time` function with integers `n` and `max_delay` as arguments that measures the total execution time for `wait_n(n, max_delay)`, and returns `total_time / n`[float].
 
+
+### [3-tasks.py](https://github.com/JamesRaphaelJRC/alx-backend-python/blob/main/0x01-python_async_function/3-tasks.py)
+Defines a function `task_wait_random` that takes an integer `max_delay` and returns a asyncio.Task
+

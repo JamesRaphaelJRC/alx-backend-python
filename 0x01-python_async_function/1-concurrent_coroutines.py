@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 ''' Defines a multiple coroutine executing function '''
 import asyncio
+
 wait_random = __import__('0-basic_async_syntax').wait_random
 
 

@@ -35,3 +35,6 @@ Defines a `measure_time` function with integers `n` and `max_delay` as arguments
 ### [3-tasks.py](https://github.com/JamesRaphaelJRC/alx-backend-python/blob/main/0x01-python_async_function/3-tasks.py)
 Defines a function `task_wait_random` that takes an integer `max_delay` and returns a asyncio.Task
 
+
+### [4-tasks.py](https://github.com/JamesRaphaelJRC/alx-backend-python/blob/main/0x01-python_async_function/4-tasks.py)
+Takes the code from wait_n and alter it into a new function task_wait_n. The code is nearly identical to wait_n except task_wait_random is being called.

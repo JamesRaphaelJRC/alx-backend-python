@@ -5,7 +5,7 @@ import random
 from collections.abc import Iterator
 
 
-async def async_generator() -> Iterator[float]:
+async def async_generator():
     ''' Loops 10 times, awaiting for 1 second every loop and yield a random
         number between 0 and 10
     '''

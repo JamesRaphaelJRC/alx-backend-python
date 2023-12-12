@@ -1,5 +1,5 @@
 # PYTHON ASYNC FUNCTIONS
-https://img-c.udemycdn.com/course/480x270/4177744_d725_4.jpg
+(https://img-c.udemycdn.com/course/480x270/4177744_d725_4.jpg)
 
 In Python, asynchronous programming is achieved using the asyncio module. Asynchronous functions are defined using the `async def` syntax. 
 

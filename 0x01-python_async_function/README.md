@@ -1,4 +1,6 @@
 # PYTHON ASYNC FUNCTIONS
+https://img-c.udemycdn.com/course/480x270/4177744_d725_4.jpg
+
 In Python, asynchronous programming is achieved using the asyncio module. Asynchronous functions are defined using the `async def` syntax. 
 
 Asynchronous functions are typically used to perform non-blocking I/O operations, allowing other tasks to run while waiting for I/O to complete. They are commonly used in conjunction with the asyncio event loop.

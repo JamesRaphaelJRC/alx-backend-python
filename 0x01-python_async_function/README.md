@@ -1,5 +1,5 @@
 # PYTHON ASYNC FUNCTIONS
-In Python, asynchronous programming is achieved using the asyncio module. Asynchronous functions are defined using the async def syntax. 
+In Python, asynchronous programming is achieved using the asyncio module. Asynchronous functions are defined using the `async def` syntax. 
 
 Asynchronous functions are typically used to perform non-blocking I/O operations, allowing other tasks to run while waiting for I/O to complete. They are commonly used in conjunction with the asyncio event loop.
 
@@ -16,7 +16,24 @@ Example:
     asyncio.run(hello_world())
 
 
-## Tasks solved in this directory:
+## How To Use
+Clone this repository to your local machine and go into the 0x01-python_async_function directory
+
+    git clone https://github.com/JamesRaphaelJRC/alx-backend-python/0x01-python_async_function.git
+
+    cd alx-backend-python/0x01-python_async_function
+
+
+Move your desired test module from `tests` to `0x01-python_async_function`
+E.g:
+
+    mv /tests/0-main.py .
+
+Run the test module. Example:
+
+    ./0-main.py
+
+## Description tasks solved in this project:
 
 ### [0-basic_async_syntax.py](https://github.com/JamesRaphaelJRC/alx-backend-python/blob/main/0x01-python_async_function/0-basic_async_syntax.py)
 Defines an asynchronous coroutine named `wait_random`  that takes in an integer argument (`max_delay`, with a default value of 10), waits for a random delay between 0 and `max_delay` (included and float value) seconds and eventually returns it (The time delayed).

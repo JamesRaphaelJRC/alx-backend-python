@@ -16,6 +16,11 @@ Example:
 
     mv tests/0-main.py .
 
+Run the test module
+Example:
+
+    ./0-main.py
+
 
 ## DESCRIPTION OF TASKS COVERED IN THIS DIRECTORY
 
